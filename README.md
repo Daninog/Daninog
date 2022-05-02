@@ -14,7 +14,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daninog&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
-## Tecnologias
+## Technologies
                                                                              
 <div align="left"style="display: inline_block"><br>
   <img align="center" alt="python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
@@ -30,7 +30,7 @@
   
 </div>
   
-## Contatos
+## Contacts
   
  <div align="left"> 
  
