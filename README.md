@@ -1,7 +1,7 @@
-### I'm Dani! <img src="https://media2.giphy.com/media/f3oXKfLFPCQxdLECS8/giphy.gif?cid=790b7611abe98ee89220e30251be0b9dfe620cbeef1bba13&rid=giphy.gif&ct=s" width="70">
+### I'm Dani! <img src="https://media2.giphy.com/media/f3oXKfLFPCQxdLECS8/giphy.gif?cid=790b7611abe98ee89220e30251be0b9dfe620cbeef1bba13&rid=giphy.gif&ct=s" width="80">
 
- - 💘 Hooked by Technology 
  - 🎓 I'm Data Engineer
+ - 💘 Hooked by Technology 
  - ☁️ Studying Cloud Computing
  - 🌳 Nature Trail Lover
  
