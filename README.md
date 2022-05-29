@@ -36,7 +36,7 @@
  
  <a href="https://www.linkedin.com/in/danieleanogueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:nogueirauff@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/apenas_dani_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
- <img align="right" alt="emocionada" height="200" style="border-radius:50px;" src="https://media0.giphy.com/media/3j8bQTB1c6OjSZQO4c/giphy.gif?cid=790b7611176f1431252b9bc56657a2eb2fbb3dc07a0c3a1f&rid=giphy.gif&ct=s">
+ <img align="left" alt="emocionada" height="200" style="border-radius:50px;" src="https://media0.giphy.com/media/3j8bQTB1c6OjSZQO4c/giphy.gif?cid=790b7611176f1431252b9bc56657a2eb2fbb3dc07a0c3a1f&rid=giphy.gif&ct=s">
 </div>
  
 </div>
